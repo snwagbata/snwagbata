@@ -10,9 +10,6 @@
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=snwagbata&show_icons=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=snwagbata.snwagbata) 
 
 </p>
