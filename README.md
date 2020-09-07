@@ -1,7 +1,7 @@
 
 <h1 align='center'>Hi there 👋🏾</h1>
 
-<p align='center'>I am a Software Engineer focused on Flutter and Dart</p>
+<p align='center'>I am a Software Engineer focused on Android software development.</p>
 
 <h2 align="center">Languages and Frameworks: </h2>
 <p align='center'>
